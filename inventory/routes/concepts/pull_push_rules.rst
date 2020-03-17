@@ -33,7 +33,7 @@ Push Inventory Control System
 | The *push system of inventory control* involves forecasting inventory
   needs to meet customer's demand. Companies must predict which products
   customers will purchase along with determining what quantity of goods
-  will be purchased. The company will, in turn, produce enough product to
+  will be purchased. The company will, in turn, produce enough products to
   meet the forecast demand and sell, or push, the goods to the consumer.
   Disadvantages of the push inventory control system are that forecasts
   are often inaccurate as sales can be unpredictable and vary from one
