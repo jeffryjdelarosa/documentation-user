@@ -14,7 +14,7 @@ Pull Inventory Control System
 | The *procurement inventory control system* begins with a customer's
   order. With this strategy, companies only produce enough to fulfill their
   customer's orders. One advantage is that there will be no
-  extra goods that needs to be stored, thus reducing inventory levels
+  extra goods that need to be stored, thus reducing inventory levels
   and the cost of carrying and storing. However, one major
   disadvantage to the pull system is that it is highly possible to run
   into ordering dilemmas, such as a supplier not being able to get a
