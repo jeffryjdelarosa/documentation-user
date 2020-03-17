@@ -23,7 +23,7 @@ Pull Inventory Control System
 
 | An example of a pull inventory control system is the make-to-order. The
   goal is to keep inventory levels to a minimum by only having enough
-  inventory to meet customer's demand. The :abbr:`MTO (Make-to-order)` system
+  inventory to meet customer demand. The :abbr:`MTO (Make-to-order)` system
   eliminates waste by reducing the amount of storage space needed for
   inventory and the costs of storing goods.
 
