@@ -93,8 +93,8 @@ Rules settings
 -  **Trigger Another Rule**: the system will try to find a stock rule to bring the products in the source location. The available stock will be ignored.
 -  **Take From Stock, if Unavailable, Trigger Another Rule**: the products will be taken from the available stock of the source location. If there is no stock available, the system will try to find a rule to bring the products in the source location.
 
-| In the *Scheduling* section, you can determine how will Odoo behave
-  when one of the pickings of the chain is rescheduled. In case you decide
+In the *Scheduling* section, you can determine how Odoo behaves
+when one of the pickings of the chain is rescheduled. In case you decide
   to Propagate Rescheduling, the next move will also be rescheduled. In
   case you prefer to have the choice to manually reschedule the next move
   or not, you can decide to receive an alert about it under the form of
