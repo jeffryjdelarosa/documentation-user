@@ -17,7 +17,7 @@ Pull Inventory Control System
   extra goods that need to be stored, thus reducing inventory levels
   and the cost of carrying and storing. However, one major
   disadvantage to the pull system is that it is highly possible to run
-  into ordering dilemmas, such as a supplier not being able to get a
+  into ordering issues, such as having a supplier unable to get a
   shipment out on time. This leaves the company unable to fulfill the
   order and contributes to customer dissatisfaction.
 
